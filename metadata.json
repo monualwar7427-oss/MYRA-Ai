@@ -1,0 +1,6 @@
+{
+  "name": "MYRA AI",
+  "description": "Smart Voice & Chat AI Assistant in Hindi and English",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
